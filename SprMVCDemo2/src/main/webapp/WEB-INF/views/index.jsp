@@ -8,7 +8,7 @@
 </head>
 <body>
 	<h1>Hello world!</h1>
-	<h2>(/WEB-INF/views/)</h2>
+	<h2>Move folder: /WEB-INF/views/</h2>
 	<h2>no maven</h2>
 	<form action="user" method="post">
 		<input type="text" name="userName"><br> <input
